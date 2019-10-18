@@ -1,0 +1,16 @@
+---
+title: "Milestone_5"
+author: "Hanif Wicaksono"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+In this project, I want to visualize countries environmental performance index (EPI) and extend that to land cover & loss over the years and see if any trends emerge. I want to enabble people to browse by country too.
+
+Data set: Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF. 2018. 2018 Environmental Performance Index (EPI). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4X928CF.
